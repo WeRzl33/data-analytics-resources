@@ -102,6 +102,8 @@ My list of resources for continuous learning and career development in the data 
 
 [Gap Minder](https://www.gapminder.org/)
 
+[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/datasets)
+
 ## Articles
 [Quickstart for Writing in Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
